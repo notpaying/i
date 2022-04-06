@@ -1,3 +1,3 @@
-# theres nothing here
-its all local
-<3
+#we-Games
+A software developed in python for games.
+yeah thats all I gotta say :/
